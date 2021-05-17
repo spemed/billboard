@@ -1,0 +1,70 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native-amap3d
+
+PATH: 
+  D:\xshell\;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Go\bin;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;D:\xampp\php;c:\composer;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Qt\Qt5.7.0\5.7\mingw53_32\bin;C:\Qt\Qt5.7.0\Tools\mingw530_32\bin;C:\Qt\Qt5.7.0\Tools\mingw530_32\i686-w64-mingw32\bin;D:\Phpstudy\PHPTutorial\php\php-7.2.1-nts;C:\Program Files\Docker\Docker\resources\bin\docker.exe;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python37\;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\go\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Roaming\Composer\vendor\bin;C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\CLion 2019.1.4\bin;;D:\protoc;C:\Program Files\Docker\Docker\resources\bin;
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.npm.taobao.org/hermes-engine/download/hermes-engine-0.2.1.tgz: unexpected end of file
+      at Zlib.zlibOnError [as onerror] (zlib.js:154:17)
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "@react-native-community/masked-view": "0.1.5",
+      "expo": "~36.0.0",
+      "expo-cli": "^3.13.2",
+      "expo-image-picker": "~8.0.1",
+      "expo-location": "~8.0.0",
+      "expo-permissions": "~8.0.0",
+      "global": "^4.4.0",
+      "react": "~16.9.0",
+      "react-dom": "~16.9.0",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+      "react-native-baidu-map": "^1.0.26",
+      "react-native-gesture-handler": "^1.5.0",
+      "react-native-linear-gradient": "^2.5.6",
+      "react-native-modals": "^0.19.9",
+      "react-native-reanimated": "~1.4.0",
+      "react-native-safe-area-context": "0.6.0",
+      "react-native-screens": "2.0.0-alpha.12",
+      "react-native-shadow-cards": "^1.0.2",
+      "react-native-storage": "^1.0.1",
+      "react-native-vector-icons": "^6.6.0",
+      "react-native-web": "~0.11.7",
+      "react-navigation": "^4.1.1",
+      "react-navigation-stack": "^2.1.1",
+      "react-navigation-tabs": "^2.7.0"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.0.0",
+      "babel-preset-expo": "~8.0.0",
+      "eslint": "^6.8.0",
+      "eslint-config-google": "^0.14.0",
+      "eslint-plugin-react": "^7.19.0"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
