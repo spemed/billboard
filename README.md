@@ -2,7 +2,7 @@
 app based on react-native
 
 ## show
-[image][https://github.com/spemed/study_image/blob/master/4011621228921_.pic.jpg]
+![](https://github.com/spemed/study_image/blob/master/4011621228921_.pic.jpg)
 
 ![](https://github.com/spemed/study_image/blob/master/4021621228985_.pic_hd.jpg)
 
